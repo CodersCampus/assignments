@@ -1,1 +1,1 @@
-# java-bootcamp
+# Code, data and related for some of the bootcamp assignments
